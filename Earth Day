@@ -1,0 +1,29 @@
+
+
+<html>
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+ <title id="title">Earth Day </title>
+ <h2> Earth Day, Every Day </h2>
+
+<main id="main">
+  <section>
+  Earth Day 2022: Friday, April 22
+  <figure id="img-div">
+    <a title="Earth Day" target="_blank" href="https://www.sustainable.pitt.edu/wp-content/uploads/2020/03/featureearth.png">
+      <img id="image" class="img-responsive" alt="earth" src="https://www.sustainable.pitt.edu/wp-content/uploads/2020/03/featureearth.png">
+      
+    </a>
+    <figcaption id="img-caption" class="center">Earth Day</figcaption>
+  </figure>
+  <div id="tribute-info">
+    <ul class="accomplishments">
+      <li>Earth Day was the brainchild of Senator Gaylord Nelson, who was inspired to create a grassroots movement after seeing the damage done by a massive oil spill in 1969.</li>
+      <li>The first Earth Day on April 22, 1970, was a national “teach-in” event focused on educating people about the environment.</li>
+      <li>Today, the Earth Day Network collaborates with more than 17,000 partners and organizations in 174 countries. </li>
+      <li>According to <a href="https://www.earthday.org/?gclid=Cj0KCQjwgMqSBhDCARIsAIIVN1WybX1g9itGJrItsNI2g0R3J18G2pLkPIbrPPFGUyLAtFcQ4VjSu68aAgaTEALw_wcB" target="_blank">EDN</a>, more than 1 billion people are involved in Earth Day activities, making it “the largest secular civic event in the world.” </li>
+    </ul>
+    </div>
+    <p>For more info, please visit <a id="tribute-link" href="https://www.history.com/topics/holidays/earth-day" target="_blank"> Earth Day History.</a></p>
+  </section>
+</main>
+</html>
